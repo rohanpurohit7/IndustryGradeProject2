@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Welcome to XYZ technologies Industry Grade Project 2</h2>
+<h2>Welcome to XYZ technologies Industry Grade Project 2. This is for deploying to Tomcat.</h2>
   <h3>This is admin Module</h3>
   <button name="Add User" value="Add User" type="button" onclick="addUser()">Add User</button>  
 <script>  
